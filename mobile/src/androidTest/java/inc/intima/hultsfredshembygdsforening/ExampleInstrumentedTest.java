@@ -1,4 +1,4 @@
-package se.additivtteknikcenter.additivtteknikcenter;
+package inc.intima.hultsfredshembygdsforening;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("se.additivtteknikcenter.additivtteknikcenter", appContext.getPackageName());
+        assertEquals("inc.intima.hultsfredshembygdsforening", appContext.getPackageName());
     }
 }

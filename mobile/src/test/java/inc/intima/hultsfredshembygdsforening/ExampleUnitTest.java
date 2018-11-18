@@ -1,4 +1,4 @@
-package se.additivtteknikcenter.additivtteknikcenter;
+package inc.intima.hultsfredshembygdsforening;
 
 import org.junit.Test;
 
