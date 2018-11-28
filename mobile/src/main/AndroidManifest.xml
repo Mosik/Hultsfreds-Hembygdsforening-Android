@@ -12,6 +12,7 @@
         android:label="Hultsfreds Hembygdsförening"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+        android:name=".ApplicationClass"
         android:theme="@style/AppTheme">
         <activity android:name=".SplashActivity" android:theme="@style/SplashTheme">
             <intent-filter>
