@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.support.v7.app.AppCompatActivity;
+import android.annotation.SuppressLint; @SuppressLint("SetJavaScriptEnabled")
 
 public class MainActivity extends AppCompatActivity {
 
