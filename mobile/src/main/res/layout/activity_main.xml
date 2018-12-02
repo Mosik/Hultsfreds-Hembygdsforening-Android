@@ -17,5 +17,6 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
     tools:ignore="RtlHardcoded" />
+
     <!--android:theme="@android:style/Theme.NoTitleBar"-->
 </android.support.constraint.ConstraintLayout>
